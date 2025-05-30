@@ -1,0 +1,1 @@
+import{bE as o,bg as a,br as s,bo as r,bn as l,A as t}from"./C40FlSlm.js";const n=o("global",(()=>{const{t:o}=a(),n=s(),b=r(),e=l();return{t:o,lang:t((()=>n.locale)),token_logo_url:t((()=>e.token_logo_url)),mode:t((()=>b.isDark?"dark":"light")),isDark:t((()=>b.isDark))}}));export{n as u};

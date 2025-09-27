@@ -1,0 +1,1 @@
+import{fM as t,am as e}from"./Bg79l_zN.js";const o={install(o){t._context=o._context,e._context=o._context,o.directive("loading",e),o.config.globalProperties.$loading=t},directive:e,service:t};export{o as E};

@@ -1,0 +1,1 @@
+import{dA as o}from"./Bg79l_zN.js";const s=o("/download/frame-1.svg");export{s as _};

@@ -1,0 +1,1 @@
+import{bs as a,r as e,m as s}from"./DVFFge40.js";function n(n,o){const i=a(),t=e(null),l=o||3e5;s(i,(a=>{if("hidden"===a&&(t.value=Date.now()),"visible"===a){Date.now()-(t.value||0)>l&&n()}}))}export{n as u};
